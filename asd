@@ -25,6 +25,7 @@ int main(int argc, char const *argv[])
     
     distance=sqrt(m+q+t);
     
+    //awful naming conventions
     cout<<"Distance="<<distance<<endl;
     
     
